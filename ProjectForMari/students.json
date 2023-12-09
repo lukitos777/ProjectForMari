@@ -1,0 +1,604 @@
+[
+    [
+        {
+            "firstname": "Максим",
+            "lastname": "Гаврилов",
+            "username": "215720",
+            "email": "215720@edu.fa.ru"
+        },
+        {
+            "firstname": "Борис",
+            "lastname": "Антонов",
+            "username": "205992",
+            "email": "205992@edu.fa.ru"
+        },
+        {
+            "firstname": "Алёна",
+            "lastname": "Шишко",
+            "username": "212456",
+            "email": "212456@edu.fa.ru"
+        },
+        {
+            "firstname": "Василий",
+            "lastname": "Боков",
+            "username": "213769",
+            "email": "213769@edu.fa.ru"
+        },
+        {
+            "firstname": "Алексей",
+            "lastname": "Гелемеев",
+            "username": "216847",
+            "email": "216847@edu.fa.ru"
+        },
+        {
+            "firstname": "Александр",
+            "lastname": "Мусин",
+            "username": "215281",
+            "email": "215281@edu.fa.ru"
+        },
+        {
+            "firstname": "Дмитрий",
+            "lastname": "Аникин",
+            "username": "205778",
+            "email": "205778@edu.fa.ru"
+        },
+        {
+            "firstname": "Лина",
+            "lastname": "Марченко",
+            "username": "204854",
+            "email": "204854@edu.fa.ru"
+        },
+        {
+            "firstname": "Джамалутдин",
+            "lastname": "Мусаев",
+            "username": "224904",
+            "email": "224904@edu.fa.ru"
+        },
+        {
+            "firstname": "Михаил",
+            "lastname": "Линкер",
+            "username": "222613",
+            "email": "222613@edu.fa.ru"
+        },
+        {
+            "firstname": "Размик",
+            "lastname": "Арушанян",
+            "username": "222624",
+            "email": "222624@edu.fa.ru"
+        },
+        {
+            "firstname": "Дарья",
+            "lastname": "Ланцова",
+            "username": "222626",
+            "email": "222626@edu.fa.ru"
+        },
+        {
+            "firstname": "Азат",
+            "lastname": "Кусяев",
+            "username": "222586",
+            "email": "222586@edu.fa.ru"
+        },
+        {
+            "firstname": "Павел",
+            "lastname": "Богословцев",
+            "username": "222605",
+            "email": "222605@edu.fa.ru"
+        },
+        {
+            "firstname": "Вадим",
+            "lastname": "Васильев",
+            "username": "229305",
+            "email": "229305@edu.fa.ru"
+        },
+        {
+            "firstname": "Игорь",
+            "lastname": "Левашов",
+            "username": "222801",
+            "email": "222801@edu.fa.ru"
+        },
+        {
+            "firstname": "Саркис",
+            "lastname": "Манучарян",
+            "username": "224913",
+            "email": "224913@edu.fa.ru"
+        },
+        {
+            "firstname": "Виталий",
+            "lastname": "Лобанов",
+            "username": "228852",
+            "email": "228852@edu.fa.ru"
+        },
+        {
+            "firstname": "Юлия",
+            "lastname": "Ершова",
+            "username": "228850",
+            "email": "228850@edu.fa.ru"
+        },
+        {
+            "firstname": "Ольга",
+            "lastname": "Агапова",
+            "username": "222623",
+            "email": "222623@edu.fa.ru"
+        },
+        {
+            "firstname": "Валерия",
+            "lastname": "Монгуш",
+            "username": "225026",
+            "email": "225026@edu.fa.ru"
+        },
+        {
+            "firstname": "Никита",
+            "lastname": "Куликов",
+            "username": "222614",
+            "email": "222614@edu.fa.ru"
+        },
+        {
+            "firstname": "Суад",
+            "lastname": "Мехдизаде",
+            "username": "226760",
+            "email": "226760@edu.fa.ru"
+        },
+        {
+            "firstname": "Денис",
+            "lastname": "Галкин",
+            "username": "220700",
+            "email": "220700@edu.fa.ru"
+        },
+        {
+            "firstname": "София",
+            "lastname": "Андонаку",
+            "username": "222629",
+            "email": "222629@edu.fa.ru"
+        },
+        {
+            "firstname": "Григорий",
+            "lastname": "Ерзаулов",
+            "username": "224897",
+            "email": "224897@edu.fa.ru"
+        },
+        {
+            "firstname": "Андрей",
+            "lastname": "Канаев",
+            "username": "220701",
+            "email": "220701@edu.fa.ru"
+        },
+        {
+            "firstname": "Андрей",
+            "lastname": "Жидков",
+            "username": "222640",
+            "email": "222640@edu.fa.ru"
+        },
+        {
+            "firstname": "Вероника",
+            "lastname": "Намы",
+            "username": "224896",
+            "email": "224896@edu.fa.ru"
+        },
+        {
+            "firstname": "Милалика",
+            "lastname": "Гунич",
+            "username": "222593",
+            "email": "222593@edu.fa.ru"
+        },
+        {
+            "firstname": "Дарья",
+            "lastname": "Куркина",
+            "username": "222606",
+            "email": "222606@edu.fa.ru"
+        },
+        {
+            "firstname": "Валентина",
+            "lastname": "Варнахина",
+            "username": "229638",
+            "email": "229638@edu.fa.ru"
+        },
+        {
+            "firstname": "Артём",
+            "lastname": "Лялин",
+            "username": "222603",
+            "email": "222603@edu.fa.ru"
+        },
+        {
+            "firstname": "Дарья",
+            "lastname": "Богданова",
+            "username": "224893",
+            "email": "224893@edu.fa.ru"
+        },
+        {
+            "firstname": "Ксения",
+            "lastname": "Быкова",
+            "username": "229510",
+            "email": "229510@edu.fa.ru"
+        },
+        {
+            "firstname": "Александр",
+            "lastname": "Молчанов",
+            "username": "229643",
+            "email": "229643@edu.fa.ru"
+        },
+        {
+            "firstname": "Павел",
+            "lastname": "Волошин",
+            "username": "229647",
+            "email": "229647@edu.fa.ru"
+        },
+        {
+            "firstname": "Дарья",
+            "lastname": "Малык",
+            "username": "222574",
+            "email": "222574@edu.fa.ru"
+        },
+        {
+            "firstname": "Никита",
+            "lastname": "Говорухин",
+            "username": "222618",
+            "email": "222618@edu.fa.ru"
+        },
+        {
+            "firstname": "Антон",
+            "lastname": "Грушин",
+            "username": "222585",
+            "email": "222585@edu.fa.ru"
+        },
+        {
+            "firstname": "Татьяна",
+            "lastname": "Михайлова",
+            "username": "222625",
+            "email": "222625@edu.fa.ru"
+        },
+        {
+            "firstname": "Амина",
+            "lastname": "Мустафина",
+            "username": "222610",
+            "email": "222610@edu.fa.ru"
+        },
+        {
+            "firstname": "Екатерина",
+            "lastname": "Лычагина",
+            "username": "222604",
+            "email": "222604@edu.fa.ru"
+        },
+        {
+            "firstname": "Дарья",
+            "lastname": "Исадичева",
+            "username": "229830",
+            "email": "229830@edu.fa.ru"
+        },
+        {
+            "firstname": "Екатерина",
+            "lastname": "Мусалова",
+            "username": "229829",
+            "email": "229829@edu.fa.ru"
+        },
+        {
+            "firstname": "Ангелина",
+            "lastname": "Алферова",
+            "username": "224894",
+            "email": "224894@edu.fa.ru"
+        },
+        {
+            "firstname": "Никита",
+            "lastname": "Антропов",
+            "username": "229982",
+            "email": "229982@edu.fa.ru"
+        },
+        {
+            "firstname": "Максим",
+            "lastname": "Ким",
+            "username": "229983",
+            "email": "229983@edu.fa.ru"
+        },
+        {
+            "firstname": "Роман",
+            "lastname": "Адиньяев",
+            "username": "222636",
+            "email": "222636@edu.fa.ru"
+        },
+        {
+            "firstname": "Никита",
+            "lastname": "Куракин",
+            "username": "226529",
+            "email": "226529@edu.fa.ru"
+        },
+        {
+            "firstname": "Иван",
+            "lastname": "Антонов",
+            "username": "202533",
+            "email": "202533@edu.fa.ru"
+        },
+        {
+            "firstname": "Семен",
+            "lastname": "Топузлу",
+            "username": "223468",
+            "email": "223468@edu.fa.ru"
+        },
+        {
+            "firstname": "Апостол",
+            "lastname": "Апостолидис",
+            "username": "204441",
+            "email": "204441@edu.fa.ru"
+        },
+        {
+            "firstname": "Илья",
+            "lastname": "Семеняк",
+            "username": "153119",
+            "email": "153119@edu.fa.ru"
+        },
+        {
+            "firstname": "Виктория",
+            "lastname": "Тотрова",
+            "username": "192926",
+            "email": "192926@edu.fa.ru"
+        },
+        {
+            "firstname": "Владислав",
+            "lastname": "Палешкин",
+            "username": "218314",
+            "email": "218314@edu.fa.ru"
+        },
+        {
+            "firstname": "Полина",
+            "lastname": "Пронина",
+            "username": "214695",
+            "email": "214695@edu.fa.ru"
+        },
+        {
+            "firstname": "Роман",
+            "lastname": "Трошенков",
+            "username": "222628",
+            "email": "222628@edu.fa.ru"
+        },
+        {
+            "firstname": "Ярослав",
+            "lastname": "Ряднов",
+            "username": "224910",
+            "email": "224910@edu.fa.ru"
+        },
+        {
+            "firstname": "Анастасия",
+            "lastname": "Пиманова",
+            "username": "222575",
+            "email": "222575@edu.fa.ru"
+        },
+        {
+            "firstname": "Яна",
+            "lastname": "Сирина",
+            "username": "222578",
+            "email": "222578@edu.fa.ru"
+        },
+        {
+            "firstname": "Светлана",
+            "lastname": "Шумакова",
+            "username": "224908",
+            "email": "224908@edu.fa.ru"
+        },
+        {
+            "firstname": "Сергей",
+            "lastname": "Павлов",
+            "username": "222639",
+            "email": "222639@edu.fa.ru"
+        },
+        {
+            "firstname": "Михаил",
+            "lastname": "Поликарпов",
+            "username": "222599",
+            "email": "222599@edu.fa.ru"
+        },
+        {
+            "firstname": "Екатерина",
+            "lastname": "Шестакова",
+            "username": "224900",
+            "email": "224900@edu.fa.ru"
+        },
+        {
+            "firstname": "Дмитрий",
+            "lastname": "Сизов",
+            "username": "222602",
+            "email": "222602@edu.fa.ru"
+        },
+        {
+            "firstname": "Елизавета",
+            "lastname": "Плавинская",
+            "username": "222577",
+            "email": "222577@edu.fa.ru"
+        },
+        {
+            "firstname": "Виктория",
+            "lastname": "Семеркова",
+            "username": "222619",
+            "email": "222619@edu.fa.ru"
+        },
+        {
+            "firstname": "Владислав",
+            "lastname": "Постников",
+            "username": "222591",
+            "email": "222591@edu.fa.ru"
+        },
+        {
+            "firstname": "Мария",
+            "lastname": "Рябова",
+            "username": "222579",
+            "email": "222579@edu.fa.ru"
+        },
+        {
+            "firstname": "Георгий",
+            "lastname": "Парцхаладзе",
+            "username": "222632",
+            "email": "222632@edu.fa.ru"
+        },
+        {
+            "firstname": "Никита",
+            "lastname": "Фром",
+            "username": "228853",
+            "email": "228853@edu.fa.ru"
+        },
+        {
+            "firstname": "Мариами",
+            "lastname": "Русадзе",
+            "username": "222572",
+            "email": "222572@edu.fa.ru"
+        },
+        {
+            "firstname": "Полина",
+            "lastname": "Хромова",
+            "username": "224890",
+            "email": "224890@edu.fa.ru"
+        },
+        {
+            "firstname": "Дарья",
+            "lastname": "Фруктова",
+            "username": "222581",
+            "email": "222581@edu.fa.ru"
+        },
+        {
+            "firstname": "Анна",
+            "lastname": "Тюрина",
+            "username": "222597",
+            "email": "222597@edu.fa.ru"
+        },
+        {
+            "firstname": "Мария",
+            "lastname": "Шестопалова",
+            "username": "222588",
+            "email": "222588@edu.fa.ru"
+        },
+        {
+            "firstname": "Кристина",
+            "lastname": "Холодова",
+            "username": "222631",
+            "email": "222631@edu.fa.ru"
+        },
+        {
+            "firstname": "Ника",
+            "lastname": "Овчинникова",
+            "username": "222590",
+            "email": "222590@edu.fa.ru"
+        },
+        {
+            "firstname": "Дмитрий",
+            "lastname": "Терский",
+            "username": "229646",
+            "email": "229646@edu.fa.ru"
+        },
+        {
+            "firstname": "Сакинат",
+            "lastname": "Нураматова",
+            "username": "224901",
+            "email": "224901@edu.fa.ru"
+        },
+        {
+            "firstname": "Анастасия",
+            "lastname": "Солодовникова",
+            "username": "222573",
+            "email": "222573@edu.fa.ru"
+        },
+        {
+            "firstname": "Кирилл",
+            "lastname": "Хмелев",
+            "username": "229509",
+            "email": "229509@edu.fa.ru"
+        },
+        {
+            "firstname": "Виталий",
+            "lastname": "Шаповалов",
+            "username": "220699",
+            "email": "220699@edu.fa.ru"
+        },
+        {
+            "firstname": "Алиса",
+            "lastname": "Теплякова",
+            "username": "229729",
+            "email": "229729@edu.fa.ru"
+        },
+        {
+            "firstname": "Рамаз",
+            "lastname": "Омсарашвили",
+            "username": "222601",
+            "email": "222601@edu.fa.ru"
+        },
+        {
+            "firstname": "Леонид",
+            "lastname": "Новгородов",
+            "username": "222634",
+            "email": "222634@edu.fa.ru"
+        },
+        {
+            "firstname": "Евгений",
+            "lastname": "Новоселов",
+            "username": "229772",
+            "email": "229772@edu.fa.ru"
+        },
+        {
+            "firstname": "Дарья",
+            "lastname": "Романова",
+            "username": "222600",
+            "email": "222600@edu.fa.ru"
+        },
+        {
+            "firstname": "Ярослав",
+            "lastname": "Сапожников",
+            "username": "197067",
+            "email": "197067@edu.fa.ru"
+        },
+        {
+            "firstname": "Лидия",
+            "lastname": "Серова",
+            "username": "222582",
+            "email": "222582@edu.fa.ru"
+        },
+        {
+            "firstname": "Анна",
+            "lastname": "Сизова",
+            "username": "224909",
+            "email": "224909@edu.fa.ru"
+        },
+        {
+            "firstname": "Савелий",
+            "lastname": "Щеголев",
+            "username": "220918",
+            "email": "220918@edu.fa.ru"
+        },
+        {
+            "firstname": "Ирина",
+            "lastname": "Райгородецкая",
+            "username": "222598",
+            "email": "222598@edu.fa.ru"
+        },
+        {
+            "firstname": "Сергей",
+            "lastname": "Шаталов",
+            "username": "222633",
+            "email": "222633@edu.fa.ru"
+        },
+        {
+            "firstname": "Екатерина",
+            "lastname": "Пюро",
+            "username": "222612",
+            "email": "222612@edu.fa.ru"
+        },
+        {
+            "firstname": "Захар",
+            "lastname": "Чернодед",
+            "username": "229828",
+            "email": "229828@edu.fa.ru"
+        },
+        {
+            "firstname": "Елена",
+            "lastname": "Параева",
+            "username": "222592",
+            "email": "222592@edu.fa.ru"
+        },
+        {
+            "firstname": "Никита",
+            "lastname": "Черняев",
+            "username": "220324",
+            "email": "220324@edu.fa.ru"
+        },
+        {
+            "firstname": "Федор",
+            "lastname": "Нечипорук",
+            "username": "231359",
+            "email": "231359@edu.fa.ru"
+        }
+    ]
+]
